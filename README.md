@@ -1,4 +1,2 @@
 # node-jenkins-app-example-jest
-
-hello
-hi2
+This is my helloworld node js application with jest test
